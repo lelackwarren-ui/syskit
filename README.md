@@ -24,11 +24,13 @@ source ~/.bashrc
   fonction top_processus permet d'afficher les processus les plus gourmands
   fonction find_large_files permet de rechercher les fichiers depassant une taille donnée
 ## Structure du projet
+```bash
 syskit/
 ├── lib/
 │ ├── functions.sh # fonctions Bash réutilisables
 │ └── aliases.sh # alias de commandes
 ├── install.sh # script d’installation automatique
-└── README.md 
+└── README.md
+``` 
 ## Auteur
 Votre Nom — [GitHub](lelackwarren-ui)
