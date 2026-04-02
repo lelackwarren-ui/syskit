@@ -33,4 +33,4 @@ syskit/
 └── README.md
 ``` 
 ## Auteur
-Votre Nom — [GitHub](lelackwarren-ui)
+LELACK Warren Kenji— [GitHub](...)
