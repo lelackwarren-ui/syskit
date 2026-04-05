@@ -1,14 +1,14 @@
  syskit
 Collection d'outils système Bash pour Linux.
 ## Fonctionnalités
-   fonction disk_usage()
-   fonction top_procesus
-   fonction find_large_files
-   alias ..
-   alias ...
-   alias ll
-   alias la 
-   alias rm 
+   -fonction disk_usage()
+   -fonction top_procesus
+   -fonction find_large_files
+   -alias ..
+   -alias ...
+   -alias ll
+   -alias la 
+   -alias rm 
 ## Prérequis
 - Linux (Ubuntu, Debian, Arch...)
 - Bash >= 4.0
